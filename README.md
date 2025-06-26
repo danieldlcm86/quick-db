@@ -1,7 +1,5 @@
 # TIFC2DEV-AD-17 - Almacenamiento de Datos - Guía
 
-## Actividad 2
-
 Interactuando con un backend de base de datos utilizando `Quick.DB`.
 
 ## Instrucciones
